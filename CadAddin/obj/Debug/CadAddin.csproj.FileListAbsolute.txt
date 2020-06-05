@@ -6,3 +6,7 @@ C:\Users\barth\source\repos\CadAddin\CadAddin\obj\Debug\CadAddin.pdb
 C:\Users\barth\source\repos\CadAddin\CadAddin\obj\Debug\CadAddin.CadAddinUI.resources
 C:\Users\barth\source\repos\CadAddin\CadAddin\obj\Debug\CadAddin.csproj.GenerateResource.cache
 C:\Users\barth\source\repos\CadAddin\CadAddin\obj\Debug\CadAddin.csprojAssemblyReference.cache
+C:\Users\barth\source\repos\CadAddin\CadAddin\bin\Debug\CadServerLib.dll
+C:\Users\barth\source\repos\CadAddin\CadAddin\bin\Debug\CadServerLib.pdb
+C:\Users\barth\source\repos\CadAddin\CadAddin\bin\Debug\CadServerLib.dll.config
+C:\Users\barth\source\repos\CadAddin\CadAddin\obj\Debug\CadAddin.csproj.CopyComplete

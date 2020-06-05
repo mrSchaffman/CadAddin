@@ -69,5 +69,11 @@
       <DependentUpon>CadAddinUI.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Downloads\team-12-Ahmed-WCF_CadServer\CadServerLib\CadServerLib.csproj">
+      <Project>{c2764d4c-8db9-4ebe-8d7f-32f9b5f0db51}</Project>
+      <Name>CadServerLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
