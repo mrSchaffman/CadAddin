@@ -1,0 +1,8 @@
+C:\Users\barth\source\repos\CadAddin\CadAddin\bin\Debug\CadAddin.dll
+C:\Users\barth\source\repos\CadAddin\CadAddin\bin\Debug\CadAddin.pdb
+C:\Users\barth\source\repos\CadAddin\CadAddin\obj\Debug\CadAddin.csproj.CoreCompileInputs.cache
+C:\Users\barth\source\repos\CadAddin\CadAddin\obj\Debug\CadAddin.dll
+C:\Users\barth\source\repos\CadAddin\CadAddin\obj\Debug\CadAddin.pdb
+C:\Users\barth\source\repos\CadAddin\CadAddin\obj\Debug\CadAddin.CadAddinUI.resources
+C:\Users\barth\source\repos\CadAddin\CadAddin\obj\Debug\CadAddin.csproj.GenerateResource.cache
+C:\Users\barth\source\repos\CadAddin\CadAddin\obj\Debug\CadAddin.csprojAssemblyReference.cache
